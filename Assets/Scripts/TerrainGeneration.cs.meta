@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cfbe9222378c4ff489ad6193ba8e8cfe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tileAtlas: {fileID: 11400000, guid: ea3382fed347d2d408cafe9f9625f517, type: 2}
+  - caveNoiseTexture: {instanceID: 0}
+  - coalSpread: {instanceID: 0}
+  - ironSpread: {instanceID: 0}
+  - goldSpread: {instanceID: 0}
+  - diamondSpread: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
